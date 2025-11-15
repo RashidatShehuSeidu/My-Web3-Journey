@@ -1,2 +1,2 @@
 # My-Web3-Journey
-Learning about GitHub
+Learning and loving GitHub
